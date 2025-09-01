@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate Systems Engineer from Bolivia 🇧🇴 working at **JachaCoders**, who combines technology with my personal interests. My focus is on creating innovative solutions both in traditional web development and in the blockchain ecosystem. I participate in multiple organizations including **Avalanche Hackathons**, **Koneque**, and **HabiTechnology**.
+I'm a passionate Systems Engineer from Bolivia 🇧🇴 working at **JachaCoders**, who combines technology with my personal interests. My focus is on creating innovative solutions both in traditional web development and in the blockchain ecosystem.
 
 ## 💻 Technologies & Tools
 
@@ -58,33 +58,7 @@ I'm a passionate Systems Engineer from Bolivia 🇧🇴 working at **JachaCoders
 - ⛓️ **Blockchain**: Building the decentralized future with smart contracts
 - 🏔️ **Hackathons**: Active participant in Avalanche blockchain hackathons
 
-## 🚀 Featured Projects
-
-### 🏢 HabiTech
-> Smart building management system with Next.js and TypeScript - **HabiTechnology Organization**
-- **Tech Stack**: Next.js, TypeScript, TailwindCSS, PostCSS, ESLint
-- **Features**: Intelligent administration, security optimization, energy efficiency
-- 🔒 *Private Repository*
-
-### 📊 Statistical Analysis with Python
-> Collection of statistical programs with graphical visualization
-- **Tech Stack**: Python, NumPy, Pandas, Matplotlib
-- **Applications**: Statistical modeling, data visualization, problem-solving
-- [🔗 View Repository](https://github.com/xXCrIs7xDXx/Estadistica-Python)
-
-### 💼 Attendance Management System
-> Complete PHP-based employee attendance tracking system
-- **Tech Stack**: PHP, MySQL, FPDF, Bootstrap
-- **Features**: Employee management, report generation, PDF exports
-- [🔗 View Repository](https://github.com/xXCrIs7xDXx/Programa-de-Asistencias)
-
-### ⛓️ Solidity Smart Contracts
-> Blockchain contracts and Web3 development
-- **Tech Stack**: Solidity, Ethereum, Web3.js
-- **Focus**: Decentralized applications and smart contract development
-- [🔗 View Repository](https://github.com/xXCrIs7xDXx/Solidity)
-
-## 📊 GitHub Statistics
+##  GitHub Statistics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=xXCrIs7xDXx&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />

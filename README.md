@@ -1,11 +1,12 @@
 <div align="center">
 
+
 # ✨ **Welcome to Cristian's Tech Universe** ✨
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=header&text=Cristian%20Velasco&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=25"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=900&lines=🔥+Passionate+Systems+Engineer+🔥;💻+Full+Stack+%26+Blockchain+Developer+⛓️;🎮+Gaming+%7C+💪+Fitness+%7C+🏐+Volleyball;🚀+Building+the+Future+with+Code+🌟;🇧🇴+Proudly+from+Bolivia+🇧🇴" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=900&lines=🔥+Systems+Engineer+%7C+Full+Stack+%26+Blockchain+Dev+🔥;💻+Web3+Builder+%7C+Data+Science+Fan+⛓️;🎮+Gaming+%7C+💪+Fitness+%7C+🏐+Volleyball;🚀+Innovating+with+Code+🌟;🇧🇴+Bolivian+Pride+🇧🇴" alt="Typing SVG" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -13,7 +14,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=xXCrIs7xDXx&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS&count=18573" alt="Profile Views: 18573" />
   <img src="https://img.shields.io/github/followers/xXCrIs7xDXx?color=blue&style=for-the-badge&logo=github&label=FOLLOWERS" alt="GitHub Followers" />
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-brightgreen?style=for-the-badge" alt="Focus" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20Blockchain-brightgreen?style=for-the-badge" alt="Focus" />
   <img src="https://img.shields.io/badge/Status-Available%20for%20Hire-success?style=for-the-badge" alt="Status" />
 </div>
 
@@ -33,6 +34,17 @@
 <tr>
 <td align="center" width="50%">
 
+
+## 🚀 **About Me** 🌟
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
 ### 👨‍💻 **Who Am I?**
 ```yaml
 name: Cristian Jocieney Velasco Conde
@@ -40,7 +52,7 @@ role: Systems Engineer & Full Stack Developer
 company: JachaCoders
 location: Bolivia 🇧🇴
 focus: [Frontend, Backend, Blockchain, Data Science]
-passion: [Technology, Gaming, Gym, Volleyball]
+passion: [Tech, Gaming, Gym, Volleyball]
 motto: "Discipline can overcome talent"
 ```
 
@@ -48,36 +60,16 @@ motto: "Discipline can overcome talent"
 <td align="center" width="50%">
 
 ### 🎯 **Quick Facts**
-- 🔭 Currently working on **Blockchain Projects**
-- 🌱 Learning **Advanced Solidity & DeFi**
-- 👯 Looking to collaborate on **Web3 Projects**
-- 💬 Ask me about **React, Node.js, Solidity**
-- ⚡ Fun fact: **Volleyball player & Code enthusiast**
-- 🎮 Gaming: **Strategy & RPG lover**
+- 🔭 Working on **Blockchain & Web3 Projects**
+- 🌱 Learning **Advanced Solidity, DeFi & AI**
+- 👯 Open to collaborate on **innovative tech**
+- 💬 Ask me about **React, Node.js, Solidity, Python**
+- ⚡ Fun fact: **Volleyball player & RPG gamer**
+- 🎮 Gaming: **Strategy, RPG & eSports**
 
 </td>
 </tr>
 </table>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
-<div align="center">
-
-## 💻 **Tech Stack & Arsenal** ⚔️
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-### 🎨 **Frontend Development**
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 </div>
